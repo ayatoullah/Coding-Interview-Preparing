@@ -54,3 +54,6 @@ Table of Contents
    * [Books](#setting-it-up)
       * [Algorithms and Datastructures](#email)
       * [Software Engineering](#configuring-the-source-email)
+   * [Algorithms and Datastructures Implementations](#setting-it-up)
+      * [C++](#email)
+      * [Java](#configuring-the-source-email)
