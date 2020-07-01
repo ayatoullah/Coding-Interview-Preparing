@@ -6,8 +6,8 @@ Table of Contents
 =================
 
    * [Online Judges for Practice](#important-information)
-      * [Leetcode](#prerequisites)
-         * [Problems Classified by Difficulty](#other-emails)
+      * [Leetcode](https://github.com/EngAhmedSalah/Coding-Interview-Preparing/tree/master/Leetcode)
+         * [Problems Classified by Difficulty](https://github.com/EngAhmedSalah/Coding-Interview-Preparing/tree/master/Leetcode/Problems%20Classified%20By%20Difficulty/EasyProblems)
             * [Easy Problems Solutions](#other-emails)
             * [Medium Problems Solutions](#configuring-other-emails)
             * [Hard Problems Solutions](#configuring-other-emails)
