@@ -41,14 +41,14 @@ Table of Contents
             * [Apple](#configuring-other-emails)
             * [Airbnb](#configuring-other-emails)
             * [Bllomberg](#configuring-other-emails)
-            * [Facebook](#configuring-other
+            * [Facebook](#configuring-other)
             * [Google](#other-emails)
             * [Linkedin](#configuring-other-emails)
             * [Microsoft](#configuring-other-emails)
             * [Poket Gems](#configuring-other-emails)
             * [Snapchat](#configuring-other-emails)
-            * [Twitter](#configuring-other
-            * [Uper](#configuring-other
+            * [Twitter](#configuring-other)
+            * [Uper](#configuring-other)
             * [Yahoo](#configuring-other-emails)
             * [Zenefit](#configuring-other-emails)
    * [Books](#setting-it-up)
