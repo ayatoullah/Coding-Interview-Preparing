@@ -2,7 +2,7 @@
 /*
 Problem Link : https://leetcode.com/problems/encode-and-decode-tinyurl/submissions/
 Company : Google
-
+Related Topics : Hashtable , Math
 Explanation : for encoding use a method of counting number of characters in the longUrl so , it will be 26 in length and print the character and its occurrence
              for decoding use the hashtable that will store the ascii code of the char in position x and when decoding , you will convert this ascii code into characters and will restore the original link
 
